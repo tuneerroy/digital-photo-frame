@@ -1,2 +1,3 @@
-# digital-photo-frame
-Simple android app to slideshow photos on a tablet.
+# Digital Photo Frame
+
+Simple android app built for a friend to slideshow pictures on his tablet.
